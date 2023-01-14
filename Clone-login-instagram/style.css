@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+.login {
+    text-align: center; 
+    background-color: white; 
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 100px;
+    width: 400px;
+    height: 650px;
+    border-radius: 30px;
+}
+
+h1 {
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="email"] {
+    margin-bottom: 10px;
+    width: 290px;
+    height: 30px;
+}
+
+input[type="password"] {
+    margin-bottom: 10px;
+    width: 290px;
+    height: 30px;
+}
+
+input[type="submit"] {
+    margin-top: 30px;
+    width: 290px;
+    height: 30px;
+    background-color: #1291f8;
+    color: white;
+    border-radius: 5px;
+}
+
+.esqueceu-senha {
+    font-size: 10px;
+    text-align: right;
+    margin-right: 52px;
+}
+
+a {
+    text-decoration: none;
+    color: #1291f8;
+}
+
+.hr1 {
+    width: 110px;
+    margin-top: 50px;
+    margin-left: 57px;
+}
+
+.hr2 {
+    width: 110px; 
+    margin-left: 239px;
+    margin-top: -15px;
+}
+
+.hr3 {
+    width: 400px;
+    margin-left: 500px;
+    margin-top: -70px;
+}
+
+p {
+    margin-top: -17px;
+    font-size: 10px;
+}
+
+.foto-face {
+    margin-right: 170px;
+    margin-top: 25px;
+}
+
+.login-face {
+    margin-top: -17px;
+    font-size: 15px;
+    color: #1291f8;
+}
+
+.rodape {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
